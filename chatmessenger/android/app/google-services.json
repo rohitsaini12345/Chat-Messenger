@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41711697412",
+    "project_id": "chat-rohit",
+    "storage_bucket": "chat-rohit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41711697412:android:d69c87bc3b2cd5a779bf51",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41711697412-3401gbjq8i5p1couo57qhijqhtmf3s3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8eWihLTCp28dKYaG0dFvYops7SBfA1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41711697412-3401gbjq8i5p1couo57qhijqhtmf3s3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
